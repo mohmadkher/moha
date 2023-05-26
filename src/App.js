@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <h1 className="name">mohmad alastora </h1>
-      <h2>man nga</h2>
+      <h2 className="na">man nga</h2>
     </>
   );
 }
